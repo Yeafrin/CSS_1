@@ -1,0 +1,135 @@
+#iiuc{
+    width: 100px;
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     margin: 10px auto;
+    color: blue;
+    text-align: center;
+}
+
+.yeaf{
+    font-size: 100px;
+    font-family: fantasy;
+    color: darkgreen;
+    margin: 10px auto ;
+    text-align: center;
+   
+}
+
+#make_up{
+    width: 1000px;
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 30px auto ;
+    text-align: center;
+    text-shadow: 1px 2px 2px rgb(0, 255, 234),
+                 2px  3px 3px rgb(0, 75, 128), 
+                3px   4px 4px   rgb(162, 0, 255) ;
+
+    font-style: italic;
+
+}
+
+
+.fiverr{
+    width: 500px;
+    height: 500px;
+    background-color: rgb(29, 110, 103);
+    border: 7px solid  #49076c;
+    border-radius: 10px;
+    margin: auto;
+    background-image: url(../PIC/bg3.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+.fiverr h1{
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+    font-family:  cursive;
+    padding-top: 60px;
+}
+.fiverr p{
+    color: azure;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    
+
+}
+.fiverr a{
+    background-color: antiquewhite;
+    padding: 10px 20px;
+    margin-left: 175px;
+    border-radius: 50px;
+    color: black;
+    font-size: 20px;
+    font-style: italic;
+    font-family: cursive;
+    text-decoration: none;
+
+
+}
+.nostalgia {
+    height: 500px;
+    width: 100%;
+    background-image: url(../PIC/bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 60px;
+    margin-bottom: 40px;
+
+
+}
+
+.coffee {
+    width: 500px;
+    height: 500px;
+    background-color:beige;
+    border-radius: 9px;
+    margin: 10px 30px;
+    background-image: url(../PIC/christiana-rivers-02MLReRp3I8-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    border: 5px solid black ;
+}
+
+.coffee h2{
+    color: aliceblue;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    font-family: cursive;
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+}
+
+.coffee p{
+    color: honeydew;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 5px;
+
+}
+
+.coffee .tea{
+    color: aliceblue;
+    padding-top: 90px;
+    padding-bottom: 30px;
+    font-style: italic;
+    margin-left: 20px;
+    margin-right: 10px;
+    font-family: cursive;
+}
+
